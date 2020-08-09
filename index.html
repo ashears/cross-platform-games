@@ -19,7 +19,12 @@
     //finally join all the rows together
     let rows = json
         .map(row => {
-        let tds = cols.map(col => `<td>${row[col]}</td>`).join("");
+        let tds = cols.map(col => {
+            if (row[col] == "")
+                return `<td>❎</td>`;
+            else
+                return `<td><a href="${row[col]}">✅</a></td>`;
+        }).join("");
         return `<tr>${tds}</tr>`;
         })
         .join("");
