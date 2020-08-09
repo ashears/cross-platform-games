@@ -4,11 +4,30 @@
     <title>Cross-platform Games</title>
     <meta name="author" content="Ashton Shears">
     <meta name="description" content="List of cross-platform games">
+    <meta name="keywords" content="cross-platform,games,fps,rpg">
     <meta charset="utf-8">
-    <script src="json2table.js"></script>
-    <link rel="stylesheet" type="text/css" href="./styles.css"  />
+    <script src="./static/js/json2table.js"></script>
+    <link rel="stylesheet" type="text/css" href="./static/css/styles.css"  />
+
+    <link rel="stylesheet" href="./static/lib/css/bootstrap.min.css">
+
 </head>
 <body>
+    <p>Supported Platforms</p>
+    <div class="btn-group-toggle" data-toggle="buttons">
+        <label class="btn btn-secondary active">
+            <input type="checkbox" checked autocomplete="off"> PC
+        </label>
+        <label class="btn btn-secondary active">
+            <input type="checkbox" checked autocomplete="off"> PS4
+        </label>
+        <label class="btn btn-secondary active">
+            <input type="checkbox" checked autocomplete="off"> Xbox One
+        </label>
+        <label class="btn btn-secondary">
+            <input type="checkbox" checked autocomplete="off"> Switch
+        </label>
+    </div>
     <p id="output"></p>
 
     <script>
@@ -17,5 +36,8 @@
             .then(response => response.json())
             .then(data => output.innerHTML = json2Table(data));
     </script>
+<script src="./static/lib/js/jquery-3.5.1.slim.min.js"></script>
+<script src="./static/lib/js/popper.min.js"></script>
+<script src="./static/lib/js/bootstrap.min.js"></script>
 </body>
 </html>
