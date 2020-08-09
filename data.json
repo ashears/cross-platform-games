@@ -2,8 +2,8 @@
     {
         "name": "Fortnite",
         "main_amazon_url": "",
-        "PC_compatibility": "",
-        "PS4_compatibility": "",
+        "PC_compatibility": "https://www.epicgames.com/fortnite/en-US/home",
+        "PS4_compatibility": "https://www.epicgames.com/fortnite/en-US/home",
         "XboxOne_compatibility": "",
         "Switch_compatibility":""
     }
