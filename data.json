@@ -1,3 +1,39 @@
+[
+    {
+        "name": "Fortnite",
+        "PC": "https://www.epicgames.com/fortnite/en-US/home",
+        "PS4": "https://www.epicgames.com/fortnite/en-US/home",
+        "XboxOne": "",
+        "Switch":""
+    },
+    {
+        "name": "Rocket League",
+        "PC": "https://store.steampowered.com/app/252950/Rocket_League/",
+        "PS4": "https://www.amazon.com/Rocket-League-Ultimate-PlayStation-4/dp/B07G3VX75Y/ref=sr_1_2?dchild=1&keywords=rocket+league&qid=1596953670&sr=8-2",
+        "XboxOne": "https://www.amazon.com/Rocket-League-Collectors-Xbox-One/dp/B01D9T0BAC/ref=sr_1_1?dchild=1&keywords=rocket%2Bleague+ultimate+xbox+one&qid=1596953731&sr=8-1",
+        "Switch":"https://www.amazon.com/Rocket-League-Ultimate-Nintendo-Switch/dp/B07N253K63/ref=sr_1_1?dchild=1&keywords=rocket%2Bleague&qid=1596953758&sr=8-1"
+    },
+    {
+        "name": "Dauntless",
+        "PC": "https://playdauntless.com/landing/",
+        "PS4": "https://playdauntless.com/landing/",
+        "XboxOne": "https://playdauntless.com/landing/",
+        "Switch":"https://playdauntless.com/landing/"
+    },
+    {
+        "name": "Smite",
+        "PC": "https://www.smitegame.com/play-for-free/",
+        "PS4": "https://www.smitegame.com/play-for-free/",
+        "XboxOne": "https://www.smitegame.com/play-for-free/",
+        "Switch":"https://www.smitegame.com/play-for-free/"
+    },
+    {
+        "name": "Paladins",
+        "PC": "https://www.paladins.com/",
+        "PS4": "https://www.paladins.com/",
+        "XboxOne": "https://www.paladins.com/",
+        "Switch":"https://www.paladins.com/"
+    },
     {
         "name": "Realm Royale",
         "PC": "https://www.realmroyale.com/",
