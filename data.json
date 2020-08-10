@@ -1,37 +1,78 @@
-[
     {
-        "name": "Fortnite",
-        "PC": "https://www.epicgames.com/fortnite/en-US/home",
-        "PS4": "https://www.epicgames.com/fortnite/en-US/home",
-        "XboxOne": "",
+        "name": "Realm Royale",
+        "PC": "https://www.realmroyale.com/",
+        "PS4": "https://www.realmroyale.com/",
+        "XboxOne": "https://www.realmroyale.com/",
+        "Switch":"https://www.realmroyale.com/"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare",
+        "PC": "https://www.callofduty.com/modernwarfare",
+        "PS4": "https://www.amazon.com/Call-Duty-Modern-Warfare-PlayStation-4/dp/B07SMLMFC6/ref=sr_1_1?dchild=1&keywords=Call+of+Duty%3A+Modern+Warfare&qid=1597020820&sr=8-1",
+        "XboxOne": "https://www.amazon.com/dp/B07SG77NQB/ref=twister_B07SNN8GV5?_encoding=UTF8&psc=1",
         "Switch":""
     },
     {
-        "name": "Rocket League",
-        "PC": "https://store.steampowered.com/app/252950/Rocket_League/",
-        "PS4": "https://www.amazon.com/Rocket-League-Ultimate-PlayStation-4/dp/B07G3VX75Y/ref=sr_1_2?dchild=1&keywords=rocket+league&qid=1596953670&sr=8-2",
-        "XboxOne": "https://www.amazon.com/Rocket-League-Collectors-Xbox-One/dp/B01D9T0BAC/ref=sr_1_1?dchild=1&keywords=rocket%2Bleague+ultimate+xbox+one&qid=1596953731&sr=8-1",
-        "Switch":"https://www.amazon.com/Rocket-League-Ultimate-Nintendo-Switch/dp/B07N253K63/ref=sr_1_1?dchild=1&keywords=rocket%2Bleague&qid=1596953758&sr=8-1"
+        "name": "Need for Speed: Heat",
+        "PC": "https://www.amazon.com/Need-Speed-Heat-Online-Game/dp/B07X3V9ZWG",
+        "PS4": "https://www.amazon.com/Need-Speed-Heat-PlayStation-4/dp/B07W95HYPR",
+        "XboxOne": "https://www.amazon.com/Need-Speed-Heat-Xbox-One/dp/B07W95HD9T",
+        "Switch":""
     },
     {
-        "name": "Dauntless",
-        "PC": "https://playdauntless.com/landing/",
-        "PS4": "https://playdauntless.com/landing/",
-        "XboxOne": "https://playdauntless.com/landing/",
-        "Switch":"https://playdauntless.com/landing/"
+        "name": "No Man's Sky",
+        "PC": "https://store.steampowered.com/app/275850/No_Mans_Sky/",
+        "PS4": "https://www.amazon.com/No-Mans-Sky-Beyond-PlayStation-4/dp/B07WFWLBB9",
+        "XboxOne": "https://www.amazon.com/No-Mans-Sky-Xbox-One/dp/B07BVTTLGX/ref=sr_1_1?dchild=1&keywords=no+mans+sky+beyond+xbox&qid=1597021332&s=videogames&sr=1-1",
+        "Switch":""
     },
     {
-        "name": "Smite",
-        "PC": "https://www.smitegame.com/play-for-free/",
-        "PS4": "https://www.smitegame.com/play-for-free/",
-        "XboxOne": "https://www.smitegame.com/play-for-free/",
-        "Switch":"https://www.smitegame.com/play-for-free/"
+        "name": "Brawlhalla",
+        "PC": "https://www.brawlhalla.com/",
+        "PS4": "https://www.brawlhalla.com/",
+        "XboxOne": "https://www.brawlhalla.com/",
+        "Switch":"https://www.brawlhalla.com/"
     },
     {
-        "name": "Paladins",
-        "PC": "https://www.paladins.com/",
-        "PS4": "https://www.paladins.com/",
-        "XboxOne": "https://www.paladins.com/",
-        "Switch":"https://www.paladins.com/"
+        "name": "Super Mega Baseball 2",
+        "PC": "https://supermegabaseball.com/",
+        "PS4": "https://supermegabaseball.com/",
+        "XboxOne": "https://supermegabaseball.com/",
+        "Switch":"https://supermegabaseball.com/"
+    },
+    {
+        "name": "Fantasy Strike",
+        "PC": "http://www.fantasystrike.com/",
+        "PS4": "http://www.fantasystrike.com/",
+        "XboxOne": "",
+        "Switch":"http://www.fantasystrike.com/"
+    },
+    {
+        "name": "World of Warships: Legends",
+        "PC": "https://wowslegends.com/",
+        "PS4": "https://wowslegends.com/",
+        "XboxOne": "https://wowslegends.com/",
+        "Switch":""
+    },
+    {
+        "name": "Minecraft",
+        "PC": "https://www.amazon.com/Minecraft-Windows-10-Starter-Collection/dp/B07JCRY8WP/ref=sr_1_3?dchild=1&keywords=minecraft+pc&qid=1597022786&s=videogames&sr=1-3",
+        "PS4": "https://www.amazon.com/Minecraft-Starter-Collection-PlayStation-4/dp/B0815VFZRL/ref=sr_1_1?dchild=1&keywords=minecraft+ps4&qid=1597022754&s=videogames&sr=1-1",
+        "XboxOne": "https://www.amazon.com/Minecraft-Starter-Collection-Xbox-One/dp/B07HFMJ4R5?ref_=ast_sto_dp",
+        "Switch":"https://www.amazon.com/Minecraft-Switch/dp/B07DG77KPX/ref=sr_1_1?dchild=1&keywords=minecraft+switch&qid=1597022815&s=videogames&sr=1-1"
+    },
+    {
+        "name": "Power Rangers: Battle for the Grid",
+        "PC": "https://www.amazon.com/Power-Rangers-Battle-Grid/s?k=Power+Rangers%3A+Battle+for+the+Grid",
+        "PS4": "https://www.amazon.com/Power-Rangers-Battle-Grid/s?k=Power+Rangers%3A+Battle+for+the+Grid",
+        "XboxOne": "https://www.amazon.com/Power-Rangers-Battle-Grid/s?k=Power+Rangers%3A+Battle+for+the+Grid",
+        "Switch":"https://www.amazon.com/Power-Rangers-Battle-Grid/s?k=Power+Rangers%3A+Battle+for+the+Grid"
+    },
+    {
+        "name": "World War Z",
+        "PC": "https://www.epicgames.com/store/en-US/product/world-war-z/home",
+        "PS4": "https://www.amazon.com/World-War-Z-PlayStation-4/dp/B07NZVN8T7/ref=sr_1_1?dchild=1&keywords=world+war+z+game&qid=1597023021&sr=8-1",
+        "XboxOne": "https://www.amazon.com/World-War-Z-PlayStation-4/dp/B07NYQXKB5/ref=sr_1_1?dchild=1&keywords=world%2Bwar%2Bz%2Bgame&qid=1597023021&sr=8-1&th=1",
+        "Switch":""
     }
 ]
