@@ -3,8 +3,8 @@
         "name": "Fortnite",
         "PC": "https://www.epicgames.com/fortnite/en-US/home",
         "PS4": "https://www.epicgames.com/fortnite/en-US/home",
-        "XboxOne": "",
-        "Switch":""
+        "XboxOne": "https://www.epicgames.com/fortnite/en-US/home",
+        "Switch":"https://www.epicgames.com/fortnite/en-US/home"
     },
     {
         "name": "Rocket League",
