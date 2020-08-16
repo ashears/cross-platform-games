@@ -21,7 +21,7 @@ function json2Table(json) {
 
     //build the table
     const table = `
-        <table>
+        <table style="margin-left: auto; margin-right: auto;">
             <thead>
                 <tr>${headerRow}</tr>
             <thead>
