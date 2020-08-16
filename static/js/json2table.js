@@ -10,11 +10,11 @@ function json2Table(json) {
     let rows = json.map(row => {
         let tds = cols.map(col => {
             if (row[col] == "")
-                return `<td>❎</td>`;
+                return `<td>❌</td>`;
             else if (!row[col].includes('http'))
                 return `<td>${row[col]}</td>`;
             else
-                return `<td><a href="${row[col]}">✅</a></td>`;
+                return `<td><a href="${row[col]}">✔️</a></td>`;
         }).join("");
         return `<tr>${tds}</tr>`;
     }).join("");
