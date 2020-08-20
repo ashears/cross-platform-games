@@ -110,5 +110,12 @@
         "PS4": "https://www.amazon.com/World-War-Z-PlayStation-4/dp/B07NZVN8T7/ref=sr_1_1?dchild=1&keywords=world+war+z+game&qid=1597023021&sr=8-1",
         "Xbox One": "https://www.amazon.com/World-War-Z-PlayStation-4/dp/B07NYQXKB5/ref=sr_1_1?dchild=1&keywords=world%2Bwar%2Bz%2Bgame&qid=1597023021&sr=8-1&th=1",
         "Switch":""
+    },
+    {
+        "Name": "Dead by Daylight",
+        "PC": "https://store.steampowered.com/app/381210/Dead_by_Daylight/",
+        "PS4": "https://www.amazon.com/Dead-Daylight-Nightmare-PlayStation-4/dp/B07PYT9PBF/ref=as_li_ss_tl?dchild=1&keywords=dead+by+daylight&qid=1597950343&sr=8-2&linkCode=ll1&tag=ashears-20&linkId=8287d3755fb6f4b3872a41056a8fd62a&language=en_US",
+        "Xbox One": "https://www.amazon.com/Dead-Daylight-Nightmare-Xbox-One/dp/B07NMVVWZL/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07NMVVWZL&pd_rd_r=7b818d0c-77a5-42ed-943d-2826a60909ef&pd_rd_w=JFYDu&pd_rd_wg=KgH67&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=P51DWZTJDMBG8XWPE1P4&psc=1&refRID=P51DWZTJDMBG8XWPE1P4&linkCode=ll1&tag=ashears-20&linkId=a2fc25b5441df828d18a2c16683d214a&language=en_US",
+        "Switch":"https://www.amazon.com/Dead-Daylight-Definitive-Nintendo-Switch/dp/B07TJWSZQT/ref=as_li_ss_tl?dchild=1&keywords=dead+by+daylight&qid=1597950313&sr=8-1&linkCode=ll1&tag=ashears-20&linkId=ffad1164347ffb3c46489ae390afcb41&language=en_US"
     }
 ]
