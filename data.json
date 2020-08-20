@@ -117,5 +117,12 @@
         "PS4": "https://www.amazon.com/Dead-Daylight-Nightmare-PlayStation-4/dp/B07PYT9PBF/ref=as_li_ss_tl?dchild=1&keywords=dead+by+daylight&qid=1597950343&sr=8-2&linkCode=ll1&tag=ashears-20&linkId=8287d3755fb6f4b3872a41056a8fd62a&language=en_US",
         "Xbox One": "https://www.amazon.com/Dead-Daylight-Nightmare-Xbox-One/dp/B07NMVVWZL/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07NMVVWZL&pd_rd_r=7b818d0c-77a5-42ed-943d-2826a60909ef&pd_rd_w=JFYDu&pd_rd_wg=KgH67&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=P51DWZTJDMBG8XWPE1P4&psc=1&refRID=P51DWZTJDMBG8XWPE1P4&linkCode=ll1&tag=ashears-20&linkId=a2fc25b5441df828d18a2c16683d214a&language=en_US",
         "Switch":"https://www.amazon.com/Dead-Daylight-Definitive-Nintendo-Switch/dp/B07TJWSZQT/ref=as_li_ss_tl?dchild=1&keywords=dead+by+daylight&qid=1597950313&sr=8-1&linkCode=ll1&tag=ashears-20&linkId=ffad1164347ffb3c46489ae390afcb41&language=en_US"
+    },
+    {
+        "Name": "World of Tanks",
+        "PC": "",
+        "PS4": "https://console.worldoftanks.com/en/content/ps4/",
+        "Xbox One": "https://console.worldoftanks.com/en/",
+        "Switch":""
     }
 ]
