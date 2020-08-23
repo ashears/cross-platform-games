@@ -124,5 +124,12 @@
         "PS4": "https://console.worldoftanks.com/en/content/ps4/",
         "Xbox One": "https://console.worldoftanks.com/en/",
         "Switch":""
+    },
+    {
+        "Name": "Sea of Thieves",
+        "PC": "https://store.steampowered.com/app/1172620/Sea_of_Thieves/",
+        "PS4": "",
+        "Xbox One": "https://www.amazon.com/Sea-Thieves-Xbox-One/dp/B00ZPT59YS/ref=as_li_ss_tl?th=1&linkCode=ll1&tag=ashears-20&linkId=f56ba08a521366c530b974e6852052c1&language=en_US",
+        "Switch":""
     }
 ]
