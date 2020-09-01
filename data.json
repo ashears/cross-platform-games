@@ -131,5 +131,12 @@
         "PS4": "",
         "Xbox One": "https://www.amazon.com/Sea-Thieves-Xbox-One/dp/B00ZPT59YS/ref=as_li_ss_tl?th=1&linkCode=ll1&tag=ashears-20&linkId=f56ba08a521366c530b974e6852052c1&language=en_US",
         "Switch":""
+    },
+    {
+        "Name": "Guns of Icarus",
+        "PC": "https://gunsoficarus.com/",
+        "PS4": "https://gunsoficarus.com/",
+        "Xbox One": "",
+        "Switch":""
     }
 ]
