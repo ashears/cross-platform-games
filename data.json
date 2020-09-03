@@ -106,7 +106,8 @@
     },
     {
         "Name": "World War Z",
-        "PC": "https://www.epicgames.com/store/en-US/product/world-war-z/home",
+        "PC": "https://www.epicga,
+  mes.com/store/en-US/product/world-war-z/home",
         "PS4": "https://www.amazon.com/World-War-Z-PlayStation-4/dp/B07NZVN8T7/ref=sr_1_1?dchild=1&keywords=world+war+z+game&qid=1597023021&sr=8-1",
         "Xbox One": "https://www.amazon.com/World-War-Z-PlayStation-4/dp/B07NYQXKB5/ref=sr_1_1?dchild=1&keywords=world%2Bwar%2Bz%2Bgame&qid=1597023021&sr=8-1&th=1",
         "Switch":""
@@ -136,6 +137,13 @@
         "Name": "Guns of Icarus",
         "PC": "https://gunsoficarus.com/",
         "PS4": "https://gunsoficarus.com/",
+        "Xbox One": "",
+        "Switch":""
+    },
+    {
+        "Name": "DC Universe Online",
+        "PC": "https://www.dcuniverseonline.com/home",
+        "PS4": "https://www.dcuniverseonline.com/home",
         "Xbox One": "",
         "Switch":""
     }
