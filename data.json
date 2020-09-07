@@ -152,5 +152,12 @@
         "PS4": "https://www.dcuniverseonline.com/home",
         "Xbox One": "",
         "Switch":""
+    },
+    {
+        "Name": "Street Fighter V",
+        "PC": "https://streetfighter.com/",
+        "PS4": "https://streetfighter.com/",
+        "Xbox One": "",
+        "Switch":""
     }
 ]
