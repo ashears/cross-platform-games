@@ -166,5 +166,12 @@
         "PS4": "https://www.amazon.com/Killer-Queen-Black-Nintendo-Switch/dp/B07S5BRQX4/ref=as_li_ss_tl?crid=18TXAIQLAGK9M&keywords=killer+queen+black+switch&qid=1559058028&s=gateway&sprefix=killer+queen+black,aps,164&sr=8-2&linkCode=ll1&tag=ashears-20&linkId=1a2427050613fd44b67e5d4e6d144d35&language=en_US",
         "Xbox One": "",
         "Switch":""
+    },
+    {
+        "Name": "Neverwinter Nights: Enhanced Edition",
+        "PC": "https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/",
+        "PS4": "",
+        "Xbox One": "https://amzn.to/3kflzKm",
+        "Switch":"https://amzn.to/35zz8Ab"
     }
 ]
